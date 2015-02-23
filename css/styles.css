@@ -1,0 +1,18 @@
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.char7,
+.char8 {
+	font-size: 90px;
+	letter-spacing: -6px;
+}
+
+.char7:hover {
+	color:red;
+}
+
+.word2:hover {
+	color:red;
+}
